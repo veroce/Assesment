@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://veroce@github.com/veroce/Assesment/trunk/Assesment/Assesment
+https://veroce@github.com/veroce/Assesment
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6aa9f061-c592-3a10-04b5-ce57b7db7bff
+
+Base.lproj
+dir
+
+
+
+add
+
+main.m
+file
+
+
+
+add
+
+Model
+dir
+
+
+
+add
+
+Utils
+dir
+
+
+
+add
+
+AppDelegate.h
+file
+
+
+
+add
+
+Services
+dir
+
+
+
+add
+
+Info.plist
+file
+
+
+
+add
+
+AppDelegate.m
+file
+
+
+
+add
+
+Assesment.xcdatamodeld
+dir
+
+
+
+add
+
+Constants
+dir
+
+
+
+add
+
+Assets.xcassets
+dir
+
+
+
+add
+
+ViewController
+dir
+
+
+
+add
+

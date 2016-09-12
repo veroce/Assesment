@@ -1,0 +1,217 @@
+10
+
+dir
+0
+https://veroce@github.com/veroce/Assesment/trunk/Assesment/Pods/RestKit/Code/CoreData
+https://veroce@github.com/veroce/Assesment
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6aa9f061-c592-3a10-04b5-ce57b7db7bff
+
+RKInMemoryManagedObjectCache.m
+file
+
+
+
+add
+
+RKEntityMapping.m
+file
+
+
+
+add
+
+NSManagedObject+RKAdditions.h
+file
+
+
+
+add
+
+RKPropertyInspector+CoreData.m
+file
+
+
+
+add
+
+RKFetchRequestManagedObjectCache.m
+file
+
+
+
+add
+
+RKEntityCache.h
+file
+
+
+
+add
+
+RKManagedObjectCaching.h
+file
+
+
+
+add
+
+RKManagedObjectMappingOperationDataSource.m
+file
+
+
+
+add
+
+RKManagedObjectStore.h
+file
+
+
+
+add
+
+RKRelationshipConnectionOperation.h
+file
+
+
+
+add
+
+RKConnectionDescription.h
+file
+
+
+
+add
+
+NSManagedObjectContext+RKAdditions.h
+file
+
+
+
+add
+
+NSManagedObject+RKAdditions.m
+file
+
+
+
+add
+
+RKEntityCache.m
+file
+
+
+
+add
+
+RKManagedObjectImporter.h
+file
+
+
+
+add
+
+RKManagedObjectStore.m
+file
+
+
+
+add
+
+RKRelationshipConnectionOperation.m
+file
+
+
+
+add
+
+RKConnectionDescription.m
+file
+
+
+
+add
+
+NSManagedObjectContext+RKAdditions.m
+file
+
+
+
+add
+
+RKManagedObjectImporter.m
+file
+
+
+
+add
+
+RKEntityByAttributeCache.h
+file
+
+
+
+add
+
+RKEntityByAttributeCache.m
+file
+
+
+
+add
+
+RKInMemoryManagedObjectCache.h
+file
+
+
+
+add
+
+RKEntityMapping.h
+file
+
+
+
+add
+
+RKPropertyInspector+CoreData.h
+file
+
+
+
+add
+
+RKFetchRequestManagedObjectCache.h
+file
+
+
+
+add
+
+RKManagedObjectMappingOperationDataSource.h
+file
+
+
+
+add
+

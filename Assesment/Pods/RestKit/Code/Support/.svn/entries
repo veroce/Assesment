@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://veroce@github.com/veroce/Assesment/trunk/Assesment/Pods/RestKit/Code/Support
+https://veroce@github.com/veroce/Assesment
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6aa9f061-c592-3a10-04b5-ce57b7db7bff
+
+RKMIMETypeSerialization.m
+file
+
+
+
+add
+
+lcl_config_logger_RK.h
+file
+
+
+
+add
+
+RKPathUtilities.m
+file
+
+
+
+add
+
+RKDictionaryUtilities.h
+file
+
+
+
+add
+
+RKStringTokenizer.h
+file
+
+
+
+add
+
+lcl_config_components_RK.h
+file
+
+
+
+add
+
+RKDictionaryUtilities.m
+file
+
+
+
+add
+
+RKStringTokenizer.m
+file
+
+
+
+add
+
+RKNSJSONSerialization.h
+file
+
+
+
+add
+
+lcl_RK.h
+file
+
+
+
+add
+
+RKMIMETypes.h
+file
+
+
+
+add
+
+RKErrors.h
+file
+
+
+
+add
+
+lcl_config_extensions_RK.h
+file
+
+
+
+add
+
+RKNSJSONSerialization.m
+file
+
+
+
+add
+
+RKSerialization.h
+file
+
+
+
+add
+
+lcl_RK.m
+file
+
+
+
+add
+
+RKDotNetDateFormatter.h
+file
+
+
+
+add
+
+RKLog.h
+file
+
+
+
+add
+
+RKErrors.m
+file
+
+
+
+add
+
+RKMIMETypes.m
+file
+
+
+
+add
+
+RKURLEncodedSerialization.h
+file
+
+
+
+add
+
+RKMacros.h
+file
+
+
+
+add
+
+RKDotNetDateFormatter.m
+file
+
+
+
+add
+
+RKLog.m
+file
+
+
+
+add
+
+RKOperationStateMachine.h
+file
+
+
+
+add
+
+RKMIMETypeSerialization.h
+file
+
+
+
+add
+
+RKURLEncodedSerialization.m
+file
+
+
+
+add
+
+RKPathUtilities.h
+file
+
+
+
+add
+
+RKOperationStateMachine.m
+file
+
+
+
+add
+

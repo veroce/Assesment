@@ -1,0 +1,245 @@
+10
+
+dir
+0
+https://veroce@github.com/veroce/Assesment/trunk/Assesment/Pods/RestKit/Code/ObjectMapping
+https://veroce@github.com/veroce/Assesment
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6aa9f061-c592-3a10-04b5-ce57b7db7bff
+
+RKErrorMessage.h
+file
+
+
+
+add
+
+RKMapperOperation_Private.h
+file
+
+
+
+add
+
+RKPropertyMapping.h
+file
+
+
+
+add
+
+RKMapping.m
+file
+
+
+
+add
+
+RKErrorMessage.m
+file
+
+
+
+add
+
+RKPropertyMapping.m
+file
+
+
+
+add
+
+RKPropertyInspector.h
+file
+
+
+
+add
+
+RKRelationshipMapping.h
+file
+
+
+
+add
+
+RKObjectMappingOperationDataSource.h
+file
+
+
+
+add
+
+RKAttributeMapping.h
+file
+
+
+
+add
+
+RKPropertyInspector.m
+file
+
+
+
+add
+
+RKRelationshipMapping.m
+file
+
+
+
+add
+
+RKObjectMappingOperationDataSource.m
+file
+
+
+
+add
+
+RKAttributeMapping.m
+file
+
+
+
+add
+
+RKObjectMappingMatcher.h
+file
+
+
+
+add
+
+RKMappingErrors.h
+file
+
+
+
+add
+
+RKMappingResult.h
+file
+
+
+
+add
+
+RKObjectMappingMatcher.m
+file
+
+
+
+add
+
+RKMappingResult.m
+file
+
+
+
+add
+
+RKDynamicMapping.h
+file
+
+
+
+add
+
+RKObjectUtilities.h
+file
+
+
+
+add
+
+RKDynamicMapping.m
+file
+
+
+
+add
+
+RKMapperOperation.h
+file
+
+
+
+add
+
+RKObjectUtilities.m
+file
+
+
+
+add
+
+RKMapperOperation.m
+file
+
+
+
+add
+
+RKMappingOperation.h
+file
+
+
+
+add
+
+RKMappingOperation.m
+file
+
+
+
+add
+
+RKObjectMapping.h
+file
+
+
+
+add
+
+RKObjectMapping.m
+file
+
+
+
+add
+
+RKMappingOperationDataSource.h
+file
+
+
+
+add
+
+RKMapping.h
+file
+
+
+
+add
+

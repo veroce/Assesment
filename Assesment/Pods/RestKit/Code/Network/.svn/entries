@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://veroce@github.com/veroce/Assesment/trunk/Assesment/Pods/RestKit/Code/Network
+https://veroce@github.com/veroce/Assesment
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6aa9f061-c592-3a10-04b5-ce57b7db7bff
+
+RKRequestDescriptor.m
+file
+
+
+
+add
+
+RKResponseDescriptor.h
+file
+
+
+
+add
+
+RKRoute.h
+file
+
+
+
+add
+
+RKObjectRequestOperationSubclass.h
+file
+
+
+
+add
+
+RKObjectRequestOperation.h
+file
+
+
+
+add
+
+RKPathMatcher.h
+file
+
+
+
+add
+
+RKObjectManager.h
+file
+
+
+
+add
+
+RKResponseDescriptor.m
+file
+
+
+
+add
+
+RKRoute.m
+file
+
+
+
+add
+
+RKObjectRequestOperation.m
+file
+
+
+
+add
+
+RKObjectParameterization.h
+file
+
+
+
+add
+
+RKPathMatcher.m
+file
+
+
+
+add
+
+RKObjectManager.m
+file
+
+
+
+add
+
+RKHTTPRequestOperation.h
+file
+
+
+
+add
+
+RKObjectParameterization.m
+file
+
+
+
+add
+
+RKRouteSet.h
+file
+
+
+
+add
+
+RKHTTPUtilities.h
+file
+
+
+
+add
+
+AFNetworking
+dir
+
+
+
+add
+
+RKManagedObjectRequestOperation.h
+file
+
+
+
+add
+
+RKHTTPRequestOperation.m
+file
+
+
+
+add
+
+RKRouteSet.m
+file
+
+
+
+add
+
+RKHTTPUtilities.m
+file
+
+
+
+add
+
+RKRouter.h
+file
+
+
+
+add
+
+RKManagedObjectRequestOperation.m
+file
+
+
+
+add
+
+RKPaginator.h
+file
+
+
+
+add
+
+RKResponseMapperOperation.h
+file
+
+
+
+add
+
+RKRouter.m
+file
+
+
+
+add
+
+RKRequestDescriptor.h
+file
+
+
+
+add
+
+RKPaginator.m
+file
+
+
+
+add
+
+RKResponseMapperOperation.m
+file
+
+
+
+add
+

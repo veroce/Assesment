@@ -1,0 +1,6 @@
+target 'Assesment' do
+pod 'SDWebImage', '~>3.7'
+pod 'SVProgressHUD'
+pod 'RestKit', '~> 0.27'
+use_frameworks!
+end

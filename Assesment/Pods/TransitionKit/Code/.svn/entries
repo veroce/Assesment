@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://veroce@github.com/veroce/Assesment/trunk/Assesment/Pods/TransitionKit/Code
+https://veroce@github.com/veroce/Assesment
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6aa9f061-c592-3a10-04b5-ce57b7db7bff
+
+TKStateMachine.m
+file
+
+
+
+add
+
+TKTransition.h
+file
+
+
+
+add
+
+TKTransition.m
+file
+
+
+
+add
+
+TKState.h
+file
+
+
+
+add
+
+TKEvent.h
+file
+
+
+
+add
+
+TransitionKit.h
+file
+
+
+
+add
+
+TKState.m
+file
+
+
+
+add
+
+TKStateMachine.h
+file
+
+
+
+add
+
+TKEvent.m
+file
+
+
+
+add
+

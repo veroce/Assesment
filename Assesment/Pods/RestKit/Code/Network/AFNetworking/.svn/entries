@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://veroce@github.com/veroce/Assesment/trunk/Assesment/Pods/RestKit/Code/Network/AFNetworking
+https://veroce@github.com/veroce/Assesment
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6aa9f061-c592-3a10-04b5-ce57b7db7bff
+
+AFRKNetworking.h
+file
+
+
+
+add
+
+AFRKXMLRequestOperation.h
+file
+
+
+
+add
+
+AFRKNetworkActivityIndicatorManager.h
+file
+
+
+
+add
+
+UIImageView+AFRKNetworking.h
+file
+
+
+
+add
+
+AFRKXMLRequestOperation.m
+file
+
+
+
+add
+
+AFRKURLConnectionOperation.h
+file
+
+
+
+add
+
+AFRKNetworkActivityIndicatorManager.m
+file
+
+
+
+add
+
+AFRKJSONRequestOperation.h
+file
+
+
+
+add
+
+UIImageView+AFRKNetworking.m
+file
+
+
+
+add
+
+AFRKURLConnectionOperation.m
+file
+
+
+
+add
+
+AFRKJSONRequestOperation.m
+file
+
+
+
+add
+
+AFRKHTTPRequestOperation.h
+file
+
+
+
+add
+
+AFRKPropertyListRequestOperation.h
+file
+
+
+
+add
+
+AFRKImageRequestOperation.h
+file
+
+
+
+add
+
+AFRKHTTPRequestOperation.m
+file
+
+
+
+add
+
+AFRKHTTPClient.h
+file
+
+
+
+add
+
+AFRKPropertyListRequestOperation.m
+file
+
+
+
+add
+
+AFRKImageRequestOperation.m
+file
+
+
+
+add
+
+AFRKHTTPClient.m
+file
+
+
+
+add
+
